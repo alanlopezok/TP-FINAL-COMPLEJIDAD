@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cBgo48I5MuFX2qtYAVYhOkDd5tyPXc6PE+swT2uhcmpE6eWkijmghxLF/MftRQpQDlxCZtZTF/w8yi2hdRQQxg==",
+  "dgSpecHash": "Ch7tiZaQsMMUVu5zI7yUzJdI6U5lZRvoqVA/5UoxoaF1igDS6MfUfZ5yhFGHITNocbFxO2yfqejwTghPhMdLnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alanl\\OneDrive\\Escritorio\\tpfinal\\tpfinal\\tpfinal.csproj",
+  "projectFilePath": "C:\\Users\\alanl\\OneDrive\\Escritorio\\TP final Alan Lopez\\tpfinal\\tpfinal\\tpfinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alanl\\.nuget\\packages\\textfieldparserstandard\\1.0.0\\textfieldparserstandard.1.0.0.nupkg.sha512"
   ],

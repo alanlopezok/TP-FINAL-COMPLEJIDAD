@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alanl\\OneDrive\\Escritorio\\tpfinal\\tpfinal\\tpfinal.csproj": {}
+    "C:\\Users\\alanl\\OneDrive\\Escritorio\\TP final Alan Lopez\\tpfinal\\tpfinal\\tpfinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alanl\\OneDrive\\Escritorio\\tpfinal\\tpfinal\\tpfinal.csproj": {
+    "C:\\Users\\alanl\\OneDrive\\Escritorio\\TP final Alan Lopez\\tpfinal\\tpfinal\\tpfinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alanl\\OneDrive\\Escritorio\\tpfinal\\tpfinal\\tpfinal.csproj",
+        "projectUniqueName": "C:\\Users\\alanl\\OneDrive\\Escritorio\\TP final Alan Lopez\\tpfinal\\tpfinal\\tpfinal.csproj",
         "projectName": "tpfinal",
-        "projectPath": "C:\\Users\\alanl\\OneDrive\\Escritorio\\tpfinal\\tpfinal\\tpfinal.csproj",
+        "projectPath": "C:\\Users\\alanl\\OneDrive\\Escritorio\\TP final Alan Lopez\\tpfinal\\tpfinal\\tpfinal.csproj",
         "packagesPath": "C:\\Users\\alanl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alanl\\OneDrive\\Escritorio\\tpfinal\\tpfinal\\obj\\",
+        "outputPath": "C:\\Users\\alanl\\OneDrive\\Escritorio\\TP final Alan Lopez\\tpfinal\\tpfinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alanl\\AppData\\Roaming\\NuGet\\NuGet.Config",
